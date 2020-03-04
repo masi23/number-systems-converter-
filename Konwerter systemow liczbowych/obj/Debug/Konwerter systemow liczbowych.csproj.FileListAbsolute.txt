@@ -1,0 +1,9 @@
+D:\projekty\C#\Konwerter systemow liczbowych\bin\Debug\Konwerter systemow liczbowych.exe.config
+D:\projekty\C#\Konwerter systemow liczbowych\bin\Debug\Konwerter systemow liczbowych.exe
+D:\projekty\C#\Konwerter systemow liczbowych\bin\Debug\Konwerter systemow liczbowych.pdb
+D:\projekty\C#\Konwerter systemow liczbowych\obj\Debug\Konwerter systemow liczbowych.csprojAssemblyReference.cache
+D:\projekty\C#\Konwerter systemow liczbowych\obj\Debug\Konwerter_systemow_liczbowych.Form1.resources
+D:\projekty\C#\Konwerter systemow liczbowych\obj\Debug\Konwerter_systemow_liczbowych.Properties.Resources.resources
+D:\projekty\C#\Konwerter systemow liczbowych\obj\Debug\Konwerter systemow liczbowych.csproj.GenerateResource.cache
+D:\projekty\C#\Konwerter systemow liczbowych\obj\Debug\Konwerter systemow liczbowych.exe
+D:\projekty\C#\Konwerter systemow liczbowych\obj\Debug\Konwerter systemow liczbowych.pdb
